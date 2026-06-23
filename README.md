@@ -1,4 +1,4 @@
-# CNN Image Restoration — DnCNN & SAR-CNN Reproductions
+# CNN Image Restoration: DnCNN & SAR-CNN Reproductions
 
 Reproductions of two related deep-learning restoration papers, built as a progression:
 a Gaussian image denoiser (**DnCNN**) and its adaptation to multiplicative SAR speckle
