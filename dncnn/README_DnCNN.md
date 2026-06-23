@@ -1,4 +1,4 @@
-# DnCNN Reproduction — Image Denoising with Deep CNNs
+# DnCNN Reproduction: Image Denoising with Deep CNNs
 
 A from-scratch reproduction of **DnCNN** (Zhang et al., 2017, *"Beyond a Gaussian
 Denoiser: Residual Learning of Deep CNN for Image Denoising"*), covering both the
