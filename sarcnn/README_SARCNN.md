@@ -1,4 +1,4 @@
-# SAR-CNN Reproduction: SAR Image Despeckling with Deep CNNs
+# SARCNN Reproduction: SAR Image Despeckling with Deep CNNs
 
 A reproduction of **SAR-CNN** (Chierchia et al., 2017, *"SAR Image Despeckling
 Through Convolutional Neural Networks"*), focused on the synthetic experiment
